@@ -12,5 +12,6 @@
 *Predictive Model*: Cox Proportional Hazards.<br>
 
 ## Task 2: Customer Retention and Personalization Strategies
-*Customer Retention* - different types of churn and metrics to track them
-*Personalization strategies* - collaborative and content based filtering
+*Customer Retention* - different types of churn and metrics to track them.<br>
+
+*Personalization strategies* - collaborative and content based filtering.
